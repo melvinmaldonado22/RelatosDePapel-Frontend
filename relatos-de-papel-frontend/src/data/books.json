@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "title": "El Principito",
+      "author": "Antoine de Saint-Exupéry",
+      "price": 15.99,
+      "description": "Un cuento filosófico que explora temas como la amistad y el amor.",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi_V8i3qf-EomCUWUfnfH5azrOJ-ux8iUGYg&s"
+    },
+    {
+      "id": 2,
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "price": 18.99,
+      "description": "La historia épica de la familia Buendía en el pueblo ficticio de Macondo.",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbpH1uK5CrW9jfh3H7XODax0byhRv1O4Dvgg&s"
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 12.49,
+      "description": "Una distopía que explora los peligros del totalitarismo.",
+      "cover": "https://cdn.waterstones.com/bookjackets/large/9780/1410/9780141036144.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Don Quijote de la Mancha",
+      "author": "Miguel de Cervantes",
+      "price": 22.00,
+      "description": "Una de las obras más importantes de la literatura española.",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaVq5gauddKZqfrq9ymgdjooCQb-QX_Vq9kw&s"
+    },
+    {
+      "id": 5,
+      "title": "Orgullo y prejuicio",
+      "author": "Jane Austen",
+      "price": 10.99,
+      "description": "Un clásico que explora las complejidades del amor y la sociedad.",
+      "cover": "https://www.elejandria.com/covers/Orgullo_y_prejuicio-Jane_Austen-md.png"
+    }
+  ]
